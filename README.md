@@ -1,4 +1,7 @@
 C119026
+
+![Pictures](https://user-images.githubusercontent.com/99583384/195675708-97a5c73a-a44d-447d-9df1-657f22fea9f7.png)
+
 # asigment
 
 A new Flutter project.
